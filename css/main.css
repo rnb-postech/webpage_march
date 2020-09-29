@@ -560,6 +560,22 @@ strong {
   padding-left: 15px;
 }
 
+.position .img-fluid {
+  max-width: 70%;
+  display: block;
+  margin: 0px auto;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.position .caption {
+  margin-top: -10px;
+  padding-bottom: 15px;
+  text-align: center;
+  color: gray;
+  font-size: 18px;
+}
+
 .page-footer.right {
   text-align: right;
 }
